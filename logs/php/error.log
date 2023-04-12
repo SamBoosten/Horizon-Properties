@@ -1,0 +1,1 @@
+[10-Apr-2023 10:25:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-customize-widgets.php on line 905
