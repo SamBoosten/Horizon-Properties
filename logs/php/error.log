@@ -1,2 +1,91 @@
 [10-Apr-2023 10:25:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [12-Apr-2023 09:18:05 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 4
+[12-Apr-2023 12:17:33 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\front-page.php on line 2
+[12-Apr-2023 15:05:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:05:20 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:05:36 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:05:36 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:05:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:05:46 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:06:03 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:06:04 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308

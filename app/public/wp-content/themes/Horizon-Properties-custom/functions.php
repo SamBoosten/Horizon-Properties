@@ -1,4 +1,26 @@
 <?php
+
+function horizonproperties_theme_support() {
+    // Adds dynamic title tag support
+    add_theme_support('title-tag');
+}
+
+// add_action('after_theme_setup', 'horizonproperties_theme_support');
+
+// function horizonproperties_menus(){
+
+//     $locations = array (
+//         'primary' => "Desktop Primary Menu",
+//         'Footer' => "Footer Menu Items"
+//     );
+
+//     register_nav_menus($locations);
+
+    
+// }
+
+add_action('init', 'horizonproperties_menu');
+
 function horizonproperties_register_styles(){
 
     $version = wp_get_theme()->get('Version');
