@@ -10,13 +10,13 @@
                 <div class="primary-overlay text-center px-3 py-5 p-md-5">
                     <h1>Waarom HORIZON PROPERTIES?</h1>
                     <div class="horizon-usp text-left row pt-5">
-                        <ul class="col">
-                            <li>Ervaren professionals met diepgaande kennis van de vastgoedmarkt.</li>
-                            <li>Persoonlijke aandacht en maatwerk voor elke klant.</li>
+                        <ul class="col fa-ul">
+                            <li><i class="far fa-check-circle"></i> Ervaren professionals met diepgaande kennis van de vastgoedmarkt.</li>
+                            <li><i class="far fa-check-circle"></i> Persoonlijke aandacht en maatwerk voor elke klant.</li>
                         </ul>
-                        <ul class="col">
-                            <li>Uitgebreid netwerk van vastgoedprofessionals voor de beste deals en kansen.</li>
-                            <li>Innovatieve technologieën en tools om klanten te helpen bij het nemen van weloverwogen beslissingen.</li>
+                        <ul class="col fa-ul">
+                            <li><i class="far fa-check-circle"></i> Uitgebreid netwerk van vastgoedprofessionals voor de beste deals en kansen.</li>
+                            <li><i class="far fa-check-circle"></i> Innovatieve technologieën en tools om klanten te helpen bij het nemen van weloverwogen beslissingen.</li>
                         </ul>
                     </div>
                 </div>

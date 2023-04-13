@@ -200,12 +200,9 @@ h6 {
 .logo{
     width:175px;
 }
-/* .logo-tagline {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-} */
+.logo-tagline {
+    margin-top: 13%;
+}
 .social-list a {
     width: 32px;
     height: 32px;
@@ -264,6 +261,7 @@ h6 {
 .white-overlay {
     background-color: var(--white);
     border-radius: 0 0 70px 70px;
+    color: var(--primary) !important;
 }
 
 .credentials {
@@ -510,6 +508,9 @@ h6 {
     margin-left: auto;
 }
 
+.intro {
+    color: var(--primary);
+}
 
 /* -------------------------------------------------------------------------- */
 /*	12. Comments
