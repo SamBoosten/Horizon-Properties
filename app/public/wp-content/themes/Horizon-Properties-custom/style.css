@@ -81,7 +81,6 @@ h6 {
 
 .knop-klein {
     padding: 7px 20px;
-    margin: 0 7px;
     background-color: var(--primary);
     color: var(--white) !important;
     border-radius: 10px;
@@ -241,6 +240,7 @@ h6 {
     top:0;
     z-index:9999;
     transition:all .2s;
+    background-color: var(--primary);
 }
 .sticky{
     padding:1em 0 !important;
@@ -471,7 +471,7 @@ h6 {
     
 }
 
-
+/* EIGEN CSS */
 .horizon-usp {
     width: 1364px;
     margin: auto;
@@ -488,6 +488,28 @@ h6 {
 .over-ons-text, .call-to-action-block {
     width: 45%;
 }
+
+.foto-onder {
+    margin-top: 60px;
+}
+
+.foto {
+    border-radius: 20px;
+}
+
+.content-article {
+    background-color: var(--primary);
+}
+
+.container-article {
+    color: var(--primary);
+    max-width: var(--content-max-width);
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 
 /* -------------------------------------------------------------------------- */
 /*	12. Comments

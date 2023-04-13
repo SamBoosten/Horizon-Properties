@@ -515,3 +515,4 @@ Stack trace:
 [13-Apr-2023 14:13:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 42
 [13-Apr-2023 14:13:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 42
 [13-Apr-2023 14:13:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 42
+[13-Apr-2023 22:20:42 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-customize-widgets.php on line 905

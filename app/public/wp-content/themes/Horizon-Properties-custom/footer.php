@@ -14,6 +14,8 @@
         <p>© Copyright Horizon Properties <?php echo date("Y")?> | <a href="#">Algemene voorwaarden</a> | <a href="#">Privacy Policy</a> | <a href="#">Cookies</a> </p>
         <div class="socials">
             <a href="https://www.facebook.com"><i class="fab fa-facebook-square"></i></a>
+            <a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
         </div>
     </div>
     
