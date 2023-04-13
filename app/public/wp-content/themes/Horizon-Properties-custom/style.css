@@ -275,6 +275,10 @@ h6 {
     background: rgb(43,43,43);
     background: linear-gradient(151deg, var(--orange) 0%, var(--pink) 35%,var(--primary) 100%) !important;
 }
+
+.content {
+    color: var(--primary);
+}
 .content .post .title {
     font-size: 1.275rem
 }
