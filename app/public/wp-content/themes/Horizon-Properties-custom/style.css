@@ -57,6 +57,7 @@ body {
     color: var(--secondary);
     overflow-x: hidden;
     font-family: 'Montserrat' !important;
+
 }
 a{
     color: var(--primary);
@@ -201,7 +202,7 @@ h6 {
 
 .main-wrapper {
     /* margin-left: var(--sidebar-width); */
-    background: var(--primary);
+    background: var(--white);
 }
 
 .main-wrapper .container {
@@ -433,6 +434,13 @@ h6 {
 }
 
 
+.horizon-usp {
+    width: 1364px;
+    margin: auto;
+}
+.usp {
+    background-color: var(--primary);
+}
 
 /* -------------------------------------------------------------------------- */
 /*	12. Comments
