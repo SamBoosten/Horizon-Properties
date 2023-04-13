@@ -20,8 +20,8 @@ Author: Sam Boosten
     --white: #fff;
     --gray: #767575;
     --gray-dark: #434242;
-    --primary: #6f42c1;
-    --secondary: #4f4f4f;
+    --primary: #243164;
+    --secondary: #D52727;
     --success: #28a745;
     --info: #17a2b8;
     --warning: #ffc107;
@@ -35,7 +35,7 @@ Author: Sam Boosten
     --breakpoint-lg: 992px;
     --breakpoint-xl: 1200px;
     --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --font-family-monospace: Montserrat ,SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     /* Font Sizes */
     --font-normal: 1em;
     --font-small: 0.8125rem;
@@ -55,10 +55,11 @@ html {
 }
 body {
     color: var(--secondary);
-    overflow-x: hidden
+    overflow-x: hidden;
+    font-family: 'Montserrat' !important;
 }
 a{
-    color: var(--pink);
+    color: var(--primary);
 }
 h1,
 h2,
@@ -66,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: var(--gray-dark);
+    
     font-weight: bold
 }
 
@@ -103,13 +104,13 @@ h6 {
 }
 
 .header {
-    position: fixed;
-    left: 0;
-    top: 0;
-    height: 100vh;
-    width: var(--sidebar-width);
-    background: var(--primary);
-    color: #fff
+    /* position: fixed; */
+    /* left: 0; */
+    /* top: 0; */
+    /* height: 50px; */
+    width: 100vw;
+    background: var(--white);
+    color: black
 }
 .header .site-title {
     color:var(--white);
@@ -130,7 +131,7 @@ h6 {
 }
 
 .header .navbar {
-    padding: 2rem 1rem
+    padding: 1rem 1rem
 }
 
 .header .navbar-dark .navbar-toggler {
@@ -161,16 +162,27 @@ h6 {
 }
 
 .header .nav-item a {
-    color: rgba(255, 255, 255, 0.8)
+    color: var(--primary)
 }
 
 .header .nav-item a:hover {
     text-decoration: underline;
-    color: rgba(0, 0, 0, 0.6)
+    color: var(--secondary)
 }
+
+#navigatie li {
+    padding: 0 10px 0 10px;
+}
+
 .logo{
-    width:78px;
+    width:175px;
 }
+/* .logo-tagline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
 .social-list a {
     width: 32px;
     height: 32px;
@@ -188,12 +200,17 @@ h6 {
 }
 
 .main-wrapper {
-    margin-left: var(--sidebar-width);
-    background: #fff;
+    /* margin-left: var(--sidebar-width); */
+    background: var(--primary);
 }
 
 .main-wrapper .container {
     max-width: var(--content-max-width);
+}
+.page-intro {
+    height: 95vh;
+    width: 100%;
+    background-image: url(/wp-content/themes/Horizon-Properties-custom/assets/images/page-intro.jpg);
 }
 .page-title {
     position:sticky;
@@ -390,7 +407,7 @@ h6 {
 
     .header .site-title {
         width: 100%;
-        position: absolute;
+        position: sticky;
         left: 0;
         top: 1.2rem;
         color:var(--white);

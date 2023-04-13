@@ -14,3 +14,4 @@
 [Thu Apr 13 09:46:16.079232 2023] [mpm_winnt:notice] [pid 6644:tid 696] AH00456: Server built: Apr 21 2020 13:46:54
 [Thu Apr 13 09:46:16.079232 2023] [core:notice] [pid 6644:tid 696] AH00094: Command line: 'C:\\Users\\Sam\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Sam/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Sam\\AppData\\Roaming\\Local\\run\\hiK8E5E7y\\conf\\apache\\apache2.conf'
 [Thu Apr 13 09:46:16.086944 2023] [mpm_winnt:notice] [pid 6644:tid 696] AH00418: Parent: Created child process 36348
+[Thu Apr 13 09:46:16.747965 2023] [mpm_winnt:notice] [pid 36348:tid 760] AH00354: Child: Starting 64 worker threads.
