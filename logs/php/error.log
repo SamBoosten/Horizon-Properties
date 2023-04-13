@@ -89,3 +89,285 @@ Stack trace:
 #6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
 #7 {main}
   thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:08:32 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:08:33 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:08:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-cron.php(46): require_once('C:\\Users\\Sam\\Lo...')
+#6 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:08:48 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:08:48 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:09:52 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:09:53 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:11:01 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:11:02 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:11:12 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-admin\index.php(10): require_once('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:11:12 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 15:12:43 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "horizonproperties_menu" not found or invalid function name in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-settings.php(623): do_action('init')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-config.php(93): require_once('C:\\Users\\Sam\\Lo...')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-load.php(50): require_once('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-hook.php on line 308
+[12-Apr-2023 17:20:00 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Apr-2023 17:20:21 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Apr-2023 17:20:37 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Apr-2023 17:37:30 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 35
+[12-Apr-2023 17:37:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_attachemnt_image_src() in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php:34
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(783): require_once()
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Sam\\Lo...', true, Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\front-page.php(2): get_header()
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 34
+[12-Apr-2023 17:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_get_attachement_image_src() in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php:34
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(783): require_once()
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Sam\\Lo...', true, Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\front-page.php(2): get_header()
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 34
+[12-Apr-2023 17:40:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 38
+[12-Apr-2023 17:40:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 38
+[12-Apr-2023 17:40:56 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[12-Apr-2023 17:40:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 38
+[12-Apr-2023 17:41:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 38
+[12-Apr-2023 17:43:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[12-Apr-2023 17:43:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[12-Apr-2023 17:47:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 8
+[12-Apr-2023 17:47:37 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 8
+[12-Apr-2023 17:47:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[12-Apr-2023 17:47:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[12-Apr-2023 17:47:37 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 8
+[13-Apr-2023 07:46:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:46:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:46:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:49:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:50:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:52:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:53:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:57:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 07:58:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:01:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:03:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:03:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:03:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:04:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:05:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_categories() in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\template-parts\content-article.php:7
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(785): require()
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Sam\\Lo...', false, Array)
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\single.php(9): get_template_part('template-parts/...', 'article')
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Sam\\Lo...')
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sam\\Lo...')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#7 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\template-parts\content-article.php on line 7
+[13-Apr-2023 08:06:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:08:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:10:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:21:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:22:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:23:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:28:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:31:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:31:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:31:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:33:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:34:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:34:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_comments_count() in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\comments.php:16
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\comment-template.php(1591): require()
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\template-parts\content-article.php(18): comments_template()
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(785): require('C:\\Users\\Sam\\Lo...')
+#3 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template.php(718): load_template('C:\\Users\\Sam\\Lo...', false, Array)
+#4 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#5 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\single.php(9): get_template_part('template-parts/...', 'article')
+#6 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Sam\\Lo...')
+#7 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sam\\Lo...')
+#8 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#9 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\comments.php on line 16
+[13-Apr-2023 08:35:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:36:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:37:05 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:37:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:37:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:37:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:44:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:46:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:46:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:46:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 08:47:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:30:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:31:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:32:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:33:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:34:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:35:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:36:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:36:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:37:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:37:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:37:52 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:39:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:39:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:39:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:40:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:42:16 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:43:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:43:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_post_pagination() in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\index.php:14
+Stack trace:
+#0 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Sam\\Lo...')
+#2 C:\Users\Sam\Local Sites\horizon-properties\app\public\index.php(17): require('C:\\Users\\Sam\\Lo...')
+#3 {main}
+  thrown in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\index.php on line 14
+[13-Apr-2023 09:44:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:44:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:44:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:44:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:45:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:46:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:46:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:46:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:46:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:46:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:49:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:49:58 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:50:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:53:23 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 53
+[13-Apr-2023 09:55:24 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 53
+[13-Apr-2023 09:56:06 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 53
+[13-Apr-2023 09:56:07 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\functions.php on line 53
+[13-Apr-2023 09:58:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 09:58:51 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 10:01:26 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 10:07:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 10:07:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 10:07:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 10:07:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 10:07:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41
+[13-Apr-2023 10:07:31 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Sam\Local Sites\horizon-properties\app\public\wp-content\themes\Horizon-Properties-custom\header.php on line 41

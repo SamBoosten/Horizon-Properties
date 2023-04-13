@@ -3,23 +3,26 @@
 function horizonproperties_theme_support() {
     // Adds dynamic title tag support
     add_theme_support('title-tag');
+    add_theme_support('custom-logo');
+    // Werkt niet
+    add_theme_support( 'post-thumbnails' );
 }
 
-// add_action('after_theme_setup', 'horizonproperties_theme_support');
+add_action('after_theme_setup', 'horizonproperties_theme_support');
 
-// function horizonproperties_menus(){
+function horizonproperties_menus(){
 
-//     $locations = array (
-//         'primary' => "Desktop Primary Menu",
-//         'Footer' => "Footer Menu Items"
-//     );
+    $locations = array (
+        'primary' => "Desktop Primary Menu",
+        'Footer' => "Footer Menu Items"
+    );
 
-//     register_nav_menus($locations);
+    register_nav_menus($locations);
 
     
-// }
+}
 
-add_action('init', 'horizonproperties_menu');
+add_action('init', 'horizonproperties_menus');
 
 function horizonproperties_register_styles(){
 
@@ -43,5 +46,23 @@ function horizonproperties_register_scripts(){
 
 add_action('wp_enqueue_scripts', 'horizonproperties_register_scripts');
 
+
+// function horizonproperties_widget_areas(){
+//     register_sidebar(
+//         array(
+//             'before_title' => '',
+//             'after_title' => '',
+//             'before_widget' => '',
+//             'after_widget' => ''
+//         ),
+//         array(
+//             'name' => 'Sidebar Area',
+//             'id' => 'sidebar-1',
+//             'description' => 'Sidebar Widget Area'
+//         )
+//     );
+// }
+
+// add_action( 'widgets_init', 'horizonproperties_widget_areas' );
 
 ?>

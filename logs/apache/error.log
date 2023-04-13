@@ -3,3 +3,14 @@
 [Mon Apr 10 12:00:12.445476 2023] [core:notice] [pid 40692:tid 772] AH00094: Command line: 'C:\\Users\\Sam\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Sam/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Sam\\AppData\\Roaming\\Local\\run\\hiK8E5E7y\\conf\\apache\\apache2.conf'
 [Mon Apr 10 12:00:12.457005 2023] [mpm_winnt:notice] [pid 40692:tid 772] AH00418: Parent: Created child process 1928
 [Mon Apr 10 12:00:13.797956 2023] [mpm_winnt:notice] [pid 1928:tid 752] AH00354: Child: Starting 64 worker threads.
+[Wed Apr 12 17:08:42.329568 2023] [core:warn] [pid 43204:tid 700] AH00098: pid file C:/Users/Sam/AppData/Roaming/Local/run/hiK8E5E7y/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Apr 12 17:08:42.333774 2023] [mpm_winnt:notice] [pid 43204:tid 700] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Wed Apr 12 17:08:42.333774 2023] [mpm_winnt:notice] [pid 43204:tid 700] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Apr 12 17:08:42.333774 2023] [core:notice] [pid 43204:tid 700] AH00094: Command line: 'C:\\Users\\Sam\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Sam/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Sam\\AppData\\Roaming\\Local\\run\\hiK8E5E7y\\conf\\apache\\apache2.conf'
+[Wed Apr 12 17:08:42.341394 2023] [mpm_winnt:notice] [pid 43204:tid 700] AH00418: Parent: Created child process 40860
+[Wed Apr 12 17:08:43.128611 2023] [mpm_winnt:notice] [pid 40860:tid 768] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 13 09:46:16.076732 2023] [core:warn] [pid 6644:tid 696] AH00098: pid file C:/Users/Sam/AppData/Roaming/Local/run/hiK8E5E7y/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 13 09:46:16.079232 2023] [mpm_winnt:notice] [pid 6644:tid 696] AH00455: Apache/2.4.43 (Win32) configured -- resuming normal operations
+[Thu Apr 13 09:46:16.079232 2023] [mpm_winnt:notice] [pid 6644:tid 696] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Apr 13 09:46:16.079232 2023] [core:notice] [pid 6644:tid 696] AH00094: Command line: 'C:\\Users\\Sam\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+6\\bin\\win32\\bin\\httpd.exe -d C:/Users/Sam/AppData/Roaming/Local/lightning-services/apache-2.4.43+6/bin/win32 -D FOREGROUND -f C:\\Users\\Sam\\AppData\\Roaming\\Local\\run\\hiK8E5E7y\\conf\\apache\\apache2.conf'
+[Thu Apr 13 09:46:16.086944 2023] [mpm_winnt:notice] [pid 6644:tid 696] AH00418: Parent: Created child process 36348
