@@ -516,6 +516,20 @@ h6 {
     color: var(--primary);
 }
 
+.kaarten {
+    color: var(--white);
+}
+.kaarten a {
+    color: var(--white);
+}
+.info {
+    background-color: var(--primary);
+    border-radius: 0 0 20px 20px;
+}
+.image img {
+    border-radius: 20px 20px 0 0;
+}
+
 /* -------------------------------------------------------------------------- */
 /*	12. Comments
 /* -------------------------------------------------------------------------- */

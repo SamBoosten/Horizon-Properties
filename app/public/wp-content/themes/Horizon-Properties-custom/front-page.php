@@ -24,21 +24,71 @@
             <div class="projecten-block">
                 <div class="white-overlay px-3 py-5 p-md-5 text-center">
                     <h1>Populair op dit moment</h1>
-                    <div class="aanbod d-flex justify-content-between">
-                        <div class="kaarten">
-                            <div class="image">
-                                <img class="project-image" src="/wp-content/themes/Horizon-Properties-custom/assets/images/project-image.jpg" alt="logo">
-                            </div>
-                            <div class="info">
-                                <div class="text-left">
-                                    <p>Riemst</p>
+                    <div class="aanbod d-flex justify-content-between py-5">
+                        <div class="kaarten"><a href="/project-1">
+                            <div class="hover-overlay">
+                                <div class="image">
+                                    <img class="project-image" src="/wp-content/themes/Horizon-Properties-custom/assets/images/project-image.jpg" alt="logo">
                                 </div>
-                                <div class="detail-info d-flex justify-content-between">
-                                    <p>Kasteelstraat 41</p>
-                                    <p>€100.000</p>
+                                <div class="info pt-3 px-3">
+                                    <div class="text-left">
+                                        <h5>Sint-Truiden</h5>
+                                    </div>
+                                    <div class="detail-info d-flex justify-content-between">
+                                        <p>Hasseltsesteenweg 37</p>
+                                        <p>€100.000</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </a></div>
+                        <div class="kaarten"><a href="/project-2">
+                            <div class="hover-overlay">
+                                <div class="image">
+                                    <img class="project-image" src="/wp-content/themes/Horizon-Properties-custom/assets/images/project-image.jpg" alt="logo">
+                                </div>
+                                <div class="info pt-3 px-3">
+                                    <div class="text-left">
+                                        <h5>Sint-Truiden</h5>
+                                    </div>
+                                    <div class="detail-info d-flex justify-content-between">
+                                        <p>Hasseltsesteenweg 37</p>
+                                        <p>€100.000</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <div class="kaarten"><a href="/project-3">
+                            <div class="hover-overlay">
+                                <div class="image">
+                                    <img class="project-image" src="/wp-content/themes/Horizon-Properties-custom/assets/images/project-image.jpg" alt="logo">
+                                </div>
+                                <div class="info pt-3 px-3">
+                                    <div class="text-left">
+                                        <h5>Sint-Truiden</h5>
+                                    </div>
+                                    <div class="detail-info d-flex justify-content-between">
+                                        <p>Hasseltsesteenweg 37</p>
+                                        <p>€100.000</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <div class="kaarten"><a href="/project-4">
+                            <div class="hover-overlay">
+                                <div class="image">
+                                    <img class="project-image" src="/wp-content/themes/Horizon-Properties-custom/assets/images/project-image.jpg" alt="logo">
+                                </div>
+                                <div class="info pt-3 px-3">
+                                    <div class="text-left">
+                                        <h5>Sint-Truiden</h5>
+                                    </div>
+                                    <div class="detail-info d-flex justify-content-between">
+                                        <p>Hasseltsesteenweg 37</p>
+                                        <p>€100.000</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </a></div>
                     </div>
                     <div class="d-flex justify-content-center py-3">
                         <a href="/aanbod" class="knop-klein">Bekijk alles</a>
