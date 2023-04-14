@@ -518,9 +518,18 @@ h6 {
 
 .kaarten {
     color: var(--white);
+    position: relative;
 }
 .kaarten a {
     color: var(--white);
+}
+.kaarten:before {
+    content: "Te koop";
+    background-color: #3FC416;
+    position: absolute;
+    padding: 7px 20px;
+    border-radius: 0 20px 0 20px;
+    right: 0;
 }
 .info {
     background-color: var(--primary);
